@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
-
+//new file
 int top = -1;
 char stack[100][100];
 
